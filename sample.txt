@@ -1,0 +1,3 @@
+Git Command
+
+add 変更をインデックスに登録する
